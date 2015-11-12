@@ -15,9 +15,35 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="poster.svg">
+   sodipodi:docname="poster.svg.2015_11_12_12_03_43.0.svg">
   <defs
      id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path8214"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path8220"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
     <radialGradient
        id="radialGradient4858"
        spreadMethod="pad"
@@ -3983,6 +4009,20 @@
        fx="0"
        fy="0"
        r="1" />
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path8214-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -3991,15 +4031,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.12693864"
-     inkscape:cx="2182.3734"
-     inkscape:cy="1566.9229"
+     inkscape:zoom="0.39964246"
+     inkscape:cx="3514.1213"
+     inkscape:cy="898.95936"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="ft"
-     inkscape:window-width="1375"
-     inkscape:window-height="768"
+     inkscape:window-width="1255"
+     inkscape:window-height="751"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -4023,43 +4063,48 @@
      id="layer1"
      transform="translate(0,2187.6175)">
     <path
-       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-opacity:1"
-       d="m 955.625,786.22628 c -39.88813,0 -72,-31.85877 -72,-71.43221 l 0,-39.48997 -747.6875,0 0,-2116.5669 1299.0313,0 0,2116.5669 -241.6876,0 0,39.48997 c 0,39.57344 -32.1118,71.43221 -72,71.43221 l -165.6562,0 z"
+       style="fill:none;stroke:#ababab;stroke-width:0.99999994;stroke-opacity:1"
+       d="m 1474.9688,503.1369 -233.6876,0 0,102.11141 c -97.9849,-0.40174 -141.2767,-0.21193 -247.96531,-0.21193 0.48185,-33.96439 0.30911,-67.93274 0.30911,-101.89948 l -817.6875,0 m 0,-1944.3997 1299.0313,0"
        id="rect6355"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
     <path
-       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-opacity:1"
-       d="m 1669.625,786.22628 c -39.8881,0 -69.9984,-31.91136 -72,-71.43221 l 0,-39.48997 -162.75,0 0,-2116.535 2728.5625,0 0,2116.535 -2090,0 0,39.48997 c 0,39.57344 -32.1119,71.43221 -72,71.43221 z"
+       style="fill:none;stroke:#ababab;stroke-width:1;stroke-opacity:1"
+       d="m 1435.9688,-1441.2628 2728.5625,0 m 0,1944.36795 -2182,0 0,101.03213 c -154.1742,1.9347 -298.192,0.68624 -439.8125,1.07924 l 0,-102.11137 -106.75,0"
        id="rect6355-1"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ssccccccsss" />
+       sodipodi:nodetypes="cccccccc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 176.85035,-1659.964 3886.29925,0"
+       style="fill:none;stroke:#ababab;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 176.86264,-1659.964 3981.81946,0"
        id="path2989"
        inkscape:connector-curvature="0" />
-    <image
-       y="145.65236"
-       x="2341.251"
-       id="image3254"
-       xlink:href="file:///home/greghale/Documents/CBMMPoster/eyeTracker.png"
-       height="380.50931"
-       width="270.74701" />
+    <a
+       id="a5106"
+       transform="matrix(0.67137172,0,0,0.67137172,929.59526,-139.71718)">
+      <image
+         width="270.74701"
+         height="380.50931"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/eyeTracker.png"
+         id="image3254"
+         x="2341.251"
+         y="145.65236" />
+    </a>
     <text
        xml:space="preserve"
        style="font-size:31.81961632px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="168.72115"
-       y="-1929.2693"
+       y="-1934.7476"
        id="text5635"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="168.72115"
-         y="-1929.2693"
+         y="-1934.7476"
          id="tspan5647"
          style="font-size:114.55062103px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light">Research on Intelligence in the </tspan><tspan
          sodipodi:role="line"
          x="168.72115"
-         y="-1786.0811"
+         y="-1791.5593"
          style="font-size:114.55062103px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"
          id="tspan5657">Center for Brains, Minds &amp; Machines</tspan></text>
     <g
@@ -5519,12 +5564,12 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="155.18033"
+       x="173.23755"
        y="-1520.5125"
        id="text5635-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="155.18033"
+         x="173.23755"
          y="-1520.5125"
          style="font-size:72px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"
          id="tspan5657-9">We are a multi-disciplinary research center creating brain-inspired intelligent systems</tspan></text>
@@ -5543,42 +5588,17 @@
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"
-       x="1544.5015"
+       x="1511.9254"
        y="-1161.0123"
        id="text6445"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6447"
-         x="1544.5015"
+         x="1511.9254"
          y="-1161.0123">Thrust 1: Development of Intelligence</tspan></text>
     <g
        id="g6637"
-       transform="translate(4.434765,2066.5217)">
-      <text
-         sodipodi:linespacing="125%"
-         id="text6303"
-         y="-1312.7118"
-         x="260.25745"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-         xml:space="preserve"><tspan
-           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Purisa;-inkscape-font-specification:Purisa;letter-spacing:3px;word-spacing:15px"
-           y="-1312.7118"
-           x="260.25745"
-           id="tspan6305"
-           sodipodi:role="line"><tspan
-             id="tspan6317"
-             style="font-size:72px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:3px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light;word-spacing:15px">What I can not</tspan><tspan
-             style="font-size:72px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:3px;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light;word-spacing:15px"
-             id="tspan6937"> create </tspan><tspan
-             id="tspan6315"
-             style="font-size:72px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:3px;writing-mode:lr-tb;text-anchor:start;fill:#4d4d4d;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light;word-spacing:15px"> I do not </tspan><tspan
-             style="font-size:72px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:3px;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light;word-spacing:15px"
-             id="tspan6939">understand    </tspan></tspan><tspan
-           id="tspan6307"
-           style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#008080;font-family:Purisa;-inkscape-font-specification:Purisa Bold"
-           y="-1222.7118"
-           x="260.25745"
-           sodipodi:role="line" /></text>
+       transform="translate(-135.56524,1904.5217)">
       <text
          sodipodi:linespacing="125%"
          id="text6449"
@@ -5589,25 +5609,9 @@
            y="-1313.5305"
            x="2170.8696"
            id="tspan6451"
-           sodipodi:role="line">- Feynman</tspan></text>
+           sodipodi:role="line"
+           style="font-size:36px">- Richard Feynman</tspan></text>
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"
-       x="174.78261"
-       y="-1222.4"
-       id="text6453"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="174.78261"
-         y="-1222.4"
-         id="tspan6461"
-         style="font-size:36px">Sustained and proactive collaborative relationships, making </tspan><tspan
-         sodipodi:role="line"
-         x="174.78261"
-         y="-1177.4"
-         id="tspan6463"
-         style="font-size:36px">Artificial Intelligence and Neuroscience better together</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot6552"
@@ -5618,7 +5622,7 @@
            height="88.695656"
            x="949.56525"
            y="1382.6086" /></flowRegion><flowPara
-         id="flowPara6558"></flowPara></flowRoot>    <flowRoot
+         id="flowPara6558" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6560"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:DejaVu Sans;font-style:normal;font-weight:200;font-size:48px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:DejaVu Sans Ultra-Light;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
@@ -5628,7 +5632,7 @@
            height="240"
            x="229.56522"
            y="1220.8695" /></flowRegion><flowPara
-         id="flowPara6566"></flowPara></flowRoot>    <flowRoot
+         id="flowPara6566" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6607"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:DejaVu Sans;font-style:normal;font-weight:200;font-size:48px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:DejaVu Sans Ultra-Light;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
@@ -5638,73 +5642,36 @@
            height="219.13043"
            x="213.91304"
            y="1226.0869" /></flowRegion><flowPara
-         id="flowPara6613"></flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"
-       x="177.3913"
-       y="-1055.5863"
-       id="text6615"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="177.3913"
-         y="-1055.5863"
-         style="font-size:36px"
-         id="tspan6633">New methods and questions for evaluating next-gen machine </tspan><tspan
-         sodipodi:role="line"
-         x="177.3913"
-         y="-1010.5862"
-         style="font-size:36px"
-         id="tspan6654">learning algorithms, going beyond the Turing test: the </tspan><tspan
-         sodipodi:role="line"
-         x="177.3913"
-         y="-965.58624"
-         style="font-size:36px"
-         id="tspan6659"><tspan
-   style="font-size:36px;font-weight:bold;-inkscape-font-specification:DejaVu Sans Bold"
-   id="tspan6851">Turing++ challenge</tspan>: To answer questions and generate </tspan><tspan
-         sodipodi:role="line"
-         x="177.3913"
-         y="-920.58624"
-         style="font-size:36px"
-         id="tspan6663">narrative explanations similar to those a human would produce, </tspan><tspan
-         sodipodi:role="line"
-         x="177.3913"
-         y="-875.58624"
-         style="font-size:36px"
-         id="tspan6861">in response to photo and video stimuli</tspan><tspan
-         sodipodi:role="line"
-         x="177.3913"
-         y="-830.58624"
-         style="font-size:36px"
-         id="tspan6648"> </tspan></text>
-    <g
+         id="flowPara6613" /></flowRoot>    <g
        id="g6884"
-       transform="translate(0,48.852948)">
+       transform="translate(12.204937,42.914594)"
+       style="stroke:#ababab;stroke-opacity:1">
       <path
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="rect6665"
          d="m 180,-791.96535 101.73915,0 m 0,511.30435 -101.73915,0"
-         style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:none;stroke:#ababab;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <image
          width="875.41473"
          height="495.54257"
          xlink:href="file:///home/greghale/Documents/CBMMPoster/TuringPP.jpg"
          id="image6539"
          x="306.17126"
-         y="-785.63275" />
+         y="-785.63275"
+         style="stroke:#ababab;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
          id="rect6665-0"
          d="m 1203.8261,-791.96535 101.7391,0 m 0,511.30435 -101.7391,0"
-         style="color:#000000;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+         style="color:#000000;fill:none;stroke:#ababab;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot6703"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"
-       transform="translate(0,-2010.2718)"><flowRegion
+       transform="translate(6.1756405,-2027.683)"><flowRegion
          id="flowRegion6705"><rect
            id="rect6707"
            width="1123.2671"
@@ -5726,36 +5693,7 @@
            height="83.478264"
            x="193.04347"
            y="1904.3478" /></flowRegion><flowPara
-         id="flowPara6759"></flowPara></flowRoot>    <flowRoot
-       transform="translate(-0.7761587,-1676.6444)"
-       xml:space="preserve"
-       id="flowRoot6703-0"
-       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"><flowRegion
-         id="flowRegion6705-4"><rect
-           id="rect6707-2"
-           width="1132.1737"
-           height="91.304451"
-           x="182.60869"
-           y="1857.3914" /></flowRegion><flowPara
-         id="flowPara6709-7"
-         style="font-size:36px">New research into how human brains solve the problems that we hope do solve with smart machines</flowPara><flowPara
-         id="flowPara6713-8" /><flowPara
-         id="flowPara6715-2" /><flowPara
-         id="flowPara6711-3" /></flowRoot>    <flowRoot
-       transform="translate(-7.6820638,-1509.8307)"
-       xml:space="preserve"
-       id="flowRoot6703-0-3"
-       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"><flowRegion
-         id="flowRegion6705-4-8"><rect
-           id="rect6707-2-3"
-           width="1121.106"
-           height="264.69931"
-           x="182.60869"
-           y="1857.3914" /></flowRegion><flowPara
-         id="flowPara6713-8-3"
-         style="font-size:36px">Novel algorithmic solutions, derived from our research findings, to the Turing++ chalenge, systems that the same types of correct judgments and mistakes that humas make, and build the same types of internal mental models</flowPara><flowPara
-         id="flowPara6715-2-2" /><flowPara
-         id="flowPara6711-3-9" /></flowRoot>    <flowRoot
+         id="flowPara6759" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6833"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:DejaVu Sans;font-style:normal;font-weight:200;font-size:48px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:DejaVu Sans Ultra-Light;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
@@ -5765,7 +5703,7 @@
            height="62.717297"
            x="173.39488"
            y="960.04181" /></flowRegion><flowPara
-         id="flowPara6839"></flowPara></flowRoot>    <text
+         id="flowPara6839" /></flowRoot>    <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
        x="1486.6541"
@@ -5780,47 +5718,47 @@
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"
-       x="1546.411"
-       y="124.86517"
+       x="1511.9254"
+       y="-51.914677"
        id="text6445-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6447-9"
-         x="1546.411"
-         y="124.86517">Thrust 3: Visual Intelligence</tspan></text>
+         x="1511.9254"
+         y="-51.914677">Thrust 3: Visual Intelligence</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"
-       x="1542.7219"
+       x="1511.9254"
        y="-576.09283"
        id="text6445-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6447-93"
-         x="1542.7219"
+         x="1511.9254"
          y="-576.09283">Thrust 2: Circuits for Intelligence</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"
-       x="3264.8293"
+       x="2911.9253"
        y="-1166.3732"
        id="text6445-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6447-3"
-         x="3264.8293"
-         y="-1166.3732">Thrust 4: Cognitive Intelligence</tspan></text>
+         x="2911.9253"
+         y="-1166.3732">Thrust 4: Social Intelligence</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"
-       x="3227.9368"
-       y="-322.8895"
+       x="2911.9253"
+       y="-262.8895"
        id="text6445-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6447-31"
-         x="3227.9368"
-         y="-322.8895">Thrust 5: Theories for Intelligence</tspan></text>
+         x="2911.9253"
+         y="-262.8895">Thrust 5: Theories for Intelligence</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot7109"
@@ -5833,32 +5771,32 @@
            x="184.46263"
            y="2085.2639" /></flowRegion><flowPara
          id="flowPara7115"
-         style="font-size:36px;letter-spacing:0px;word-spacing:0px">Open-source research platforms allowing the use of CBMM-developed algorithms and data by anyone</flowPara></flowRoot>    <image
-       y="144.63426"
-       x="2667.5991"
+         style="font-size:36px;letter-spacing:0px;word-spacing:0px" /></flowRoot>    <image
+       y="247.6579"
+       x="2495.2097"
        id="image7214"
        xlink:href="file:///home/greghale/Documents/CBMMPoster/visionboxes.jpg"
-       height="349.70563"
-       width="349.70563" />
+       height="224.58545"
+       width="224.58545" />
     <image
-       y="-1018.7462"
-       x="3606.6316"
+       y="-1096.3888"
+       x="3800.2417"
        id="image7276"
        xlink:href="file:///home/greghale/Documents/CBMMPoster/goalieFigure2.jpg"
-       height="412.42291"
-       width="412.42291" />
+       height="295.64307"
+       width="295.64307" />
     <image
-       y="-992.92145"
-       x="3263.5308"
+       y="-730.43237"
+       x="3799.658"
        id="image7338"
        xlink:href="file:///home/greghale/Documents/CBMMPoster/robotTheoryOfMind.jpg"
-       height="180"
-       width="180" />
+       height="274.53607"
+       width="274.53607" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot7365"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-8.52000046px;word-spacing:18.03000069px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"
-       transform="translate(0,-2187.6175)"><flowRegion
+       transform="translate(13.69885,-2155.6175)"><flowRegion
          id="flowRegion7367"><rect
            id="rect7369"
            width="782.12164"
@@ -5867,14 +5805,14 @@
            y="1085.4764" /></flowRegion><flowPara
          id="flowPara7371"
          style="font-size:32px;letter-spacing:0px;word-spacing:0px">How do infants and toddlers learn to recognize objects, actions, intention, logic, and social structure?</flowPara></flowRoot>    <image
-       y="-1074.0851"
-       x="2488.7876"
+       y="-1091.028"
+       x="2509.5662"
        id="image7432"
        xlink:href="file:///home/greghale/Documents/CBMMPoster/doe_sample.jpg"
        height="180"
        width="180" />
     <flowRoot
-       transform="translate(0.30907793,-2015.1532)"
+       transform="translate(13.69885,-1973.1532)"
        xml:space="preserve"
        id="flowRoot7365-1"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-8.52000046px;word-spacing:18.03000069px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"><flowRegion
@@ -5885,15 +5823,15 @@
            x="1556.8646"
            y="1085.4764" /></flowRegion><flowPara
          id="flowPara7371-2"
-         style="font-size:32px;letter-spacing:0px;word-spacing:0px">How does human developmental learning (involving just a few trials) differ from curent machine learning alrogithms (which requiraining samples+?</flowPara></flowRoot>    <image
-       y="-508.9823"
-       x="2397.8132"
+         style="font-size:32px;letter-spacing:0px;word-spacing:0px">How does human developmental learning (involving just a few trials) differ from curent machine learning alrogithms (which requires many training samples)?</flowPara></flowRoot>    <image
+       y="-506.10846"
+       x="2431.179"
        id="image7666"
        xlink:href="file:///home/greghale/Documents/CBMMPoster/realBrainFaces.jpg"
-       height="309.72876"
-       width="476.37021" />
+       height="230.18462"
+       width="354.02942" />
     <flowRoot
-       transform="translate(-10.758685,-1579.8215)"
+       transform="translate(13.9176,-1569.8215)"
        xml:space="preserve"
        id="flowRoot7365-0"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-8.52000046px;word-spacing:18.03000069px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"><flowRegion
@@ -5914,8 +5852,8 @@
            height="136.50235"
            x="1512.5936"
            y="1668.3783" /></flowRegion><flowPara
-         id="flowPara7702"></flowPara></flowRoot>    <flowRoot
-       transform="translate(7.6875878,-1447.0083)"
+         id="flowPara7702" /></flowRoot>    <flowRoot
+       transform="translate(13.4801,-1429.0083)"
        xml:space="preserve"
        id="flowRoot7365-16"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-8.52000046px;word-spacing:18.03000069px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"><flowRegion
@@ -5927,19 +5865,19 @@
            y="1085.4764" /></flowRegion><flowPara
          id="flowPara7371-0"
          style="font-size:32px;letter-spacing:0px;word-spacing:0px">How does neural computation resemble current machine learning algorithms? How can next-gen algorithms compute in a more neural way?</flowPara></flowRoot>    <flowRoot
-       transform="translate(-28.511548,-880.87862)"
+       transform="translate(14.07385,-1046.9756)"
        xml:space="preserve"
        id="flowRoot7365-5"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-8.52000046px;word-spacing:18.03000069px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"><flowRegion
          id="flowRegion7367-5"><rect
            id="rect7369-8"
-           width="782.12164"
-           height="118.0561"
+           width="827.16199"
+           height="120.55839"
            x="1556.8646"
            y="1085.4764" /></flowRegion><flowPara
          id="flowPara7371-6"
-         style="font-size:32px;letter-spacing:0px;word-spacing:0px">How do humans solve the recognition problem? Where do we look? What are the limits of our visual memory?</flowPara></flowRoot>    <flowRoot
-       transform="translate(-40.791444,-711.50159)"
+         style="font-size:32px;letter-spacing:0px;word-spacing:0px">How do humans solve the recognition problem? Where do we look to recognize objects and people? What are the limits of our visual memory?</flowPara></flowRoot>    <flowRoot
+       transform="translate(13.69885,-860.67199)"
        xml:space="preserve"
        id="flowRoot7365-5-9"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-8.52000046px;word-spacing:18.03000069px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"><flowRegion
@@ -5950,5 +5888,494 @@
            x="1556.8646"
            y="1085.4764" /></flowRegion><flowPara
          id="flowPara7371-6-3"
-         style="font-size:32px;letter-spacing:0px;word-spacing:0px">How can machine vision move from the restricted domain of labeling single images with single categories, to open-ended problems humans solve in unconstrained environments?</flowPara></flowRoot>  </g>
+         style="font-size:32px;letter-spacing:0px;word-spacing:0px">How can machine vision move from the restricted domain of labeling single images with single categories, to open-ended problems humans solve in unconstrained environments?</flowPara></flowRoot>    <g
+       id="g6888"
+       transform="matrix(0.79034495,0,0,0.79034495,1218.8929,-52.16714)">
+      <image
+         width="498"
+         height="80"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/spectrogram.png"
+         id="image6729"
+         x="3193.3081"
+         y="-23.009811" />
+      <image
+         width="498"
+         height="79"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/sound-waveform.png"
+         id="image6791"
+         x="3193.3081"
+         y="-102.15537" />
+    </g>
+    <image
+       y="84.326904"
+       x="3678.1721"
+       id="image6885"
+       xlink:href="file:///home/greghale/Documents/CBMMPoster/word-convnet.png"
+       height="379.53622"
+       width="461.39099" />
+    <flowRoot
+       transform="translate(1412.2145,-2159.2152)"
+       xml:space="preserve"
+       id="flowRoot7365-9"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-8.52000046px;word-spacing:18.03000069px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"><flowRegion
+         id="flowRegion7367-1"><rect
+           id="rect7369-7"
+           width="782.12164"
+           height="118.0561"
+           x="1556.8646"
+           y="1085.4764" /></flowRegion><flowPara
+         id="flowPara7371-4"
+         style="font-size:32px;letter-spacing:0px;word-spacing:0px">How do we infer others' mental states?</flowPara></flowRoot>    <flowRoot
+       transform="translate(1414.5114,-2053.2792)"
+       xml:space="preserve"
+       id="flowRoot7365-7"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-8.52000046px;word-spacing:18.03000069px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"><flowRegion
+         id="flowRegion7367-9"><rect
+           id="rect7369-19"
+           width="782.12164"
+           height="118.0561"
+           x="1556.8646"
+           y="1085.4764" /></flowRegion><flowPara
+         id="flowPara7371-00"
+         style="font-size:32px;letter-spacing:0px;word-spacing:0px">How do we anticipate others' motor goals? What are the minimal visual cues we need to preempt them?</flowPara></flowRoot>    <flowRoot
+       transform="translate(1413.6989,-1872.0597)"
+       xml:space="preserve"
+       id="flowRoot7365-4"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-8.52000046px;word-spacing:18.03000069px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"><flowRegion
+         id="flowRegion7367-94"><rect
+           id="rect7369-3"
+           width="782.12164"
+           height="118.0561"
+           x="1556.8646"
+           y="1085.4764" /></flowRegion><flowPara
+         id="flowPara7371-67"
+         style="font-size:32px;letter-spacing:0px;word-spacing:0px">How do infants and toddlers learn to recognize objects, actions, intention, logic, and social structure?</flowPara></flowRoot>    <flowRoot
+       transform="translate(1413.8864,-1692.976)"
+       xml:space="preserve"
+       id="flowRoot7365-03"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-8.52000046px;word-spacing:18.03000069px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"><flowRegion
+         id="flowRegion7367-3"><rect
+           id="rect7369-2"
+           width="782.12164"
+           height="118.0561"
+           x="1556.8646"
+           y="1085.4764" /></flowRegion><flowPara
+         id="flowPara7371-9"
+         style="font-size:32px;letter-spacing:0px;word-spacing:0px">What cues let us tell a friend from an aggressor?</flowPara></flowRoot>    <flowRoot
+       transform="translate(1413.8864,-1588.4679)"
+       xml:space="preserve"
+       id="flowRoot7365-3"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-8.52000046px;word-spacing:18.03000069px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"><flowRegion
+         id="flowRegion7367-14"><rect
+           id="rect7369-0"
+           width="782.12164"
+           height="118.0561"
+           x="1556.8646"
+           y="1085.4764" /></flowRegion><flowPara
+         id="flowPara7371-7"
+         style="font-size:32px;letter-spacing:0px;word-spacing:0px">What brain areas are involved in theory-of-mind, and the asignment of blame or forgiveness?</flowPara></flowRoot>    <flowRoot
+       transform="translate(1413.4801,-1255.2697)"
+       xml:space="preserve"
+       id="flowRoot7365-3-3"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-8.52000046px;word-spacing:18.03000069px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"><flowRegion
+         id="flowRegion7367-14-3"><rect
+           id="rect7369-0-6"
+           width="743.19507"
+           height="229.27505"
+           x="1556.8646"
+           y="1085.4764" /></flowRegion><flowPara
+         id="flowPara7371-7-0"
+         style="font-size:32px;letter-spacing:0px;word-spacing:0px">How can we constrain machine learning algorithms to reach more consistent accuracy under noise? What designs will result in them making more muman-like patterns of mistakes?</flowPara></flowRoot>    <flowRoot
+       transform="translate(1413.5739,-852.02392)"
+       xml:space="preserve"
+       id="flowRoot7365-3-3-4"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-8.52000046px;word-spacing:18.03000069px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"><flowRegion
+         id="flowRegion7367-14-3-7"><rect
+           id="rect7369-0-6-1"
+           width="743.19507"
+           height="229.27505"
+           x="1556.8646"
+           y="1085.4764" /></flowRegion><flowPara
+         id="flowPara7371-7-0-3"
+         style="font-size:32px;letter-spacing:0px;word-spacing:0px">How can we move  from the current training regime of thousands of example stimuli, to one-shot learning?</flowPara></flowRoot>    <flowRoot
+       transform="translate(1413.9176,-994.3162)"
+       xml:space="preserve"
+       id="flowRoot7365-3-3-1"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-8.52000046px;word-spacing:18.03000069px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"><flowRegion
+         id="flowRegion7367-14-3-0"><rect
+           id="rect7369-0-6-3"
+           width="737.63397"
+           height="79.129501"
+           x="1556.8646"
+           y="1085.4764" /></flowRegion><flowPara
+         id="flowPara7371-7-0-5"
+         style="font-size:32px;letter-spacing:0px;word-spacing:0px">How can we port the success of visual classifiers to other senses?</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#acacac;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1392.4801,-1266.5498 0,1655.81248"
+       id="path7828"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       transform="translate(8.0389217,-3061.1704)"
+       xml:space="preserve"
+       id="flowRoot6703-0-9"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"><flowRegion
+         id="flowRegion6705-4-1"><rect
+           id="rect6707-2-1"
+           width="1132.1737"
+           height="91.304451"
+           x="182.60869"
+           y="1857.3914" /></flowRegion><flowPara
+         id="flowPara6709-7-8"
+         style="font-size:36px">Sustained and proactive collaborative relationships, making </flowPara><flowPara
+         style="font-size:36px"
+         id="flowPara7949">Artificial Intelligence and Neuroscience better together</flowPara><flowPara
+         id="flowPara6713-8-34" /><flowPara
+         id="flowPara6715-2-3" /><flowPara
+         id="flowPara6711-3-5" /></flowRoot>    <flowRoot
+       transform="translate(6.2635311,-2905.8293)"
+       xml:space="preserve"
+       id="flowRoot6703-0-9-1"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"><flowRegion
+         id="flowRegion6705-4-1-1"><rect
+           id="rect6707-2-1-3"
+           width="1132.1737"
+           height="347.10791"
+           x="182.60869"
+           y="1857.3914" /></flowRegion><flowPara
+         style="font-size:36px"
+         id="flowPara7949-8">New methods and questions for evaluating next-gen </flowPara><flowPara
+         id="flowPara6711-3-5-9"
+         style="font-size:36px">machine learning algorithms, going beyond the Turing test, the <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:DejaVu Sans Bold"
+   id="flowSpan8030">Turing++ challenge</flowSpan>: To answer questions and generate narrative explanations similar to those a human would produce, in response to photo and video stimuli</flowPara></flowRoot>    <g
+       transform="translate(50.017274,-1968.4446)"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"
+       id="flowRoot6703-0-9-2" />
+    <flowRoot
+       transform="translate(6.8260311,-1717.001)"
+       xml:space="preserve"
+       id="flowRoot6703-0-4"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"><flowRegion
+         id="flowRegion6705-4-2"><rect
+           id="rect6707-2-6"
+           width="1132.1737"
+           height="91.304451"
+           x="182.60869"
+           y="1857.3914" /></flowRegion><flowPara
+         id="flowPara6709-7-1"
+         style="font-size:36px">New research into how human brains solve the problems that we hope to solve with smart machines</flowPara><flowPara
+         id="flowPara6713-8-38" /><flowPara
+         id="flowPara6715-2-8" /><flowPara
+         id="flowPara6711-3-8" /></flowRoot>    <flowRoot
+       transform="translate(7.4764217,-1561.6601)"
+       xml:space="preserve"
+       id="flowRoot6703-0-3-9"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"><flowRegion
+         id="flowRegion6705-4-8-8"><rect
+           id="rect6707-2-3-0"
+           width="1121.106"
+           height="264.69931"
+           x="182.60869"
+           y="1857.3914" /></flowRegion><flowPara
+         id="flowPara6713-8-3-6"
+         style="font-size:36px">Novel algorithmic solutions, derived from our research findings, to the Turing++ chalenge, systems that make the same types of correct judgments and mistakes that humas make, and build the same types of internal mental models</flowPara><flowPara
+         id="flowPara6715-2-2-1" /><flowPara
+         id="flowPara6711-3-9-2" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7109-0"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-8.52000046px;word-spacing:18.03000069px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"
+       transform="translate(4.3006405,-2100.1857)"><flowRegion
+         id="flowRegion7111-6"><rect
+           id="rect7113-5"
+           width="1132.6006"
+           height="114.36689"
+           x="184.46263"
+           y="2085.2639" /></flowRegion><flowPara
+         id="flowPara7115-4"
+         style="font-size:36px;letter-spacing:0px;word-spacing:0px">Open-source research platforms allowing the use of CBMM-developed algorithms and data by anyone</flowPara></flowRoot>    <g
+       id="g7387"
+       transform="translate(4506.5032,474.75455)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7381"
+         d="m -133.6911,361.64527 0,-428.9255 339.7982,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path7383"
+         d="m -133.6911,67.98127 328.6572,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path7385"
+         d="m -133.6911,145.25637 328.6572,0"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-8.52000046px;word-spacing:18.03000069px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"
+       x="456.41443"
+       y="578.49969"
+       id="text7433"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7435"
+         x="456.41443"
+         y="578.49969"
+         style="font-size:72px;letter-spacing:0px;word-spacing:0px"><tspan
+   style="fill:#5e5e5e;fill-opacity:1"
+   id="tspan11045">What I can not</tspan> create <tspan
+   style="fill:#5e5e5e;fill-opacity:1"
+   id="tspan11057">I do not</tspan> understand</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 1240.4355,488.1374 c 150.7712,-51.3993 301.5424,3.4266 301.5424,3.4266"
+       id="path7437"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 1541.9779,621.29309 c -150.7712,51.3993 -301.5424,-3.4266 -301.5424,-3.4266"
+       id="path7437-8"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6458c2;fill-opacity:1;stroke:none;font-family:Sans"
+       x="3595.1802"
+       y="-1520.5125"
+       id="text5635-3-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="3595.1802"
+         y="-1520.5125"
+         style="font-size:72px;font-style:oblique;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#6458c2;fill-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Oblique"
+         id="tspan5657-9-5">cbmm.mit.edu</tspan></text>
+    <g
+       id="g11011"
+       transform="translate(-33.503815,-80)">
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/allen-inst.jpg"
+         id="image9006"
+         x="219.16516"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/ASTAR-official-logo_-195.png"
+         id="image9068"
+         x="342.78198"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/boston_dynamics_logo_0.jpg"
+         id="image9130"
+         x="466.39874"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/childrens-hospital.jpg"
+         id="image9192"
+         x="590.0155"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/city_university_hong_kong.jpg"
+         id="image9254"
+         x="713.63232"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/cuny_logotype_CMYK_blue_195.png"
+         id="image9316"
+         x="837.24915"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/GE-edit1.png"
+         id="image9378"
+         x="960.86591"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/hewbrew_university.jpg"
+         id="image9440"
+         x="1084.4827"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/italian_institute_of_technology.jpg"
+         id="image9502"
+         x="1208.0995"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/max_planck.jpg"
+         id="image9564"
+         x="1331.7163"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/mobile_eye.jpg"
+         id="image9626"
+         x="1455.3331"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/national_center_for_biological_sciences.jpg"
+         id="image9688"
+         x="1578.95"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/orcam.jpg"
+         id="image9750"
+         x="1702.5667"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/parnter-deepmind.jpg"
+         id="image9812"
+         x="1826.1836"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-cornell.jpg"
+         id="image9874"
+         x="1949.8002"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-google.jpg"
+         id="image9936"
+         x="2073.4172"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-harvard.jpg"
+         id="image9998"
+         x="2197.0337"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-howard.jpg"
+         id="image10060"
+         x="2320.6509"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-ibm.jpg"
+         id="image10138"
+         x="2444.2673"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-mit.jpg"
+         id="image10200"
+         x="2567.8845"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-ms.jpg"
+         id="image10262"
+         x="2691.501"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-rockefeller.jpg"
+         id="image10324"
+         x="2815.1182"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-stanford.jpg"
+         id="image10386"
+         x="2938.7346"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-ucc.jpg"
+         id="image10480"
+         x="3062.3516"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-ucla.jpg"
+         id="image10542"
+         x="3185.968"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-udpp.jpg"
+         id="image10604"
+         x="3309.5852"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/rethink_robotics.jpg"
+         id="image10666"
+         x="3433.2019"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/shlumberger_-new-edit195.png"
+         id="image10728"
+         x="3556.8188"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/siemensedit2-195.png"
+         id="image10790"
+         x="3680.4353"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/university_of_genova.jpg"
+         id="image10852"
+         x="3804.0522"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/weizmann_institute_of_science.jpg"
+         id="image10946"
+         x="3927.6692"
+         y="819.88666" />
+      <image
+         width="116.55658"
+         height="116.55658"
+         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/wellesley_seal_new.gif.png"
+         id="image11008"
+         x="4051.2859"
+         y="819.88666" />
+    </g>
+  </g>
 </svg>
