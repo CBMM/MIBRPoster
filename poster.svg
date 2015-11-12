@@ -3991,9 +3991,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.19166667"
-     inkscape:cx="2086.9487"
-     inkscape:cy="1495.8488"
+     inkscape:zoom="0.12693864"
+     inkscape:cx="2182.3734"
+     inkscape:cy="1566.9229"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -4039,8 +4039,8 @@
        id="path2989"
        inkscape:connector-curvature="0" />
     <image
-       y="161.30453"
-       x="2116.9033"
+       y="145.65236"
+       x="2341.251"
        id="image3254"
        xlink:href="file:///home/greghale/Documents/CBMMPoster/eyeTracker.png"
        height="380.50931"
@@ -5834,8 +5834,8 @@
            y="2085.2639" /></flowRegion><flowPara
          id="flowPara7115"
          style="font-size:36px;letter-spacing:0px;word-spacing:0px">Open-source research platforms allowing the use of CBMM-developed algorithms and data by anyone</flowPara></flowRoot>    <image
-       y="165.50383"
-       x="2422.3816"
+       y="144.63426"
+       x="2667.5991"
        id="image7214"
        xlink:href="file:///home/greghale/Documents/CBMMPoster/visionboxes.jpg"
        height="349.70563"
@@ -5886,8 +5886,8 @@
            y="1085.4764" /></flowRegion><flowPara
          id="flowPara7371-2"
          style="font-size:32px;letter-spacing:0px;word-spacing:0px">How does human developmental learning (involving just a few trials) differ from curent machine learning alrogithms (which requiraining samples+?</flowPara></flowRoot>    <image
-       y="-493.33014"
-       x="2345.6394"
+       y="-508.9823"
+       x="2397.8132"
        id="image7666"
        xlink:href="file:///home/greghale/Documents/CBMMPoster/realBrainFaces.jpg"
        height="309.72876"
@@ -5926,5 +5926,29 @@
            x="1556.8646"
            y="1085.4764" /></flowRegion><flowPara
          id="flowPara7371-0"
-         style="font-size:32px;letter-spacing:0px;word-spacing:0px">How does neural computation resemble current machine learning algorithms? How can next-gen algorithms compute in a more neural way?</flowPara></flowRoot>  </g>
+         style="font-size:32px;letter-spacing:0px;word-spacing:0px">How does neural computation resemble current machine learning algorithms? How can next-gen algorithms compute in a more neural way?</flowPara></flowRoot>    <flowRoot
+       transform="translate(-28.511548,-880.87862)"
+       xml:space="preserve"
+       id="flowRoot7365-5"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-8.52000046px;word-spacing:18.03000069px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"><flowRegion
+         id="flowRegion7367-5"><rect
+           id="rect7369-8"
+           width="782.12164"
+           height="118.0561"
+           x="1556.8646"
+           y="1085.4764" /></flowRegion><flowPara
+         id="flowPara7371-6"
+         style="font-size:32px;letter-spacing:0px;word-spacing:0px">How do humans solve the recognition problem? Where do we look? What are the limits of our visual memory?</flowPara></flowRoot>    <flowRoot
+       transform="translate(-40.791444,-711.50159)"
+       xml:space="preserve"
+       id="flowRoot7365-5-9"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-8.52000046px;word-spacing:18.03000069px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Ultra-Light"><flowRegion
+         id="flowRegion7367-5-7"><rect
+           id="rect7369-8-0"
+           width="782.1217"
+           height="266.61319"
+           x="1556.8646"
+           y="1085.4764" /></flowRegion><flowPara
+         id="flowPara7371-6-3"
+         style="font-size:32px;letter-spacing:0px;word-spacing:0px">How can machine vision move from the restricted domain of labeling single images with single categories, to open-ended problems humans solve in unconstrained environments?</flowPara></flowRoot>  </g>
 </svg>
