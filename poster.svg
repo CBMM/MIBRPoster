@@ -14,8 +14,8 @@
    height="3240"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="poster.svg.2015_11_12_12_03_43.0.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="poster.svg">
   <defs
      id="defs4">
     <marker
@@ -4032,17 +4032,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.39964246"
-     inkscape:cx="3514.1213"
-     inkscape:cy="898.95936"
+     inkscape:cx="1477.6239"
+     inkscape:cy="1799.7645"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="ft"
-     inkscape:window-width="1255"
-     inkscape:window-height="751"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1587"
+     inkscape:window-height="1194"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true" />
   <metadata
@@ -4053,7 +4053,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4083,12 +4083,13 @@
        id="a5106"
        transform="matrix(0.67137172,0,0,0.67137172,929.59526,-139.71718)">
       <image
-         width="270.74701"
-         height="380.50931"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/eyeTracker.png"
-         id="image3254"
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/eyeTracker.png"
+         xlink:href="eyeTracker.png"
+         y="145.65236"
          x="2341.251"
-         y="145.65236" />
+         id="image3254"
+         height="380.50931"
+         width="270.74701" />
     </a>
     <text
        xml:space="preserve"
@@ -5653,13 +5654,14 @@
          d="m 180,-791.96535 101.73915,0 m 0,511.30435 -101.73915,0"
          style="color:#000000;fill:none;stroke:#ababab;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <image
-         width="875.41473"
-         height="495.54257"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/TuringPP.jpg"
-         id="image6539"
-         x="306.17126"
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/TuringPP.jpg"
+         xlink:href="TuringPP.jpg"
+         style="stroke:#ababab;stroke-opacity:1"
          y="-785.63275"
-         style="stroke:#ababab;stroke-opacity:1" />
+         x="306.17126"
+         id="image6539"
+         height="495.54257"
+         width="875.41473" />
       <path
          sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
@@ -5772,26 +5774,29 @@
            y="2085.2639" /></flowRegion><flowPara
          id="flowPara7115"
          style="font-size:36px;letter-spacing:0px;word-spacing:0px" /></flowRoot>    <image
-       y="247.6579"
-       x="2495.2097"
-       id="image7214"
-       xlink:href="file:///home/greghale/Documents/CBMMPoster/visionboxes.jpg"
+       sodipodi:absref="/home/greghale/Programming/MIBRPoster/visionboxes.jpg"
+       xlink:href="visionboxes.jpg"
+       width="224.58545"
        height="224.58545"
-       width="224.58545" />
+       id="image7214"
+       x="2495.2097"
+       y="247.6579" />
     <image
-       y="-1096.3888"
-       x="3800.2417"
-       id="image7276"
-       xlink:href="file:///home/greghale/Documents/CBMMPoster/goalieFigure2.jpg"
+       sodipodi:absref="/home/greghale/Programming/MIBRPoster/goalieFigure2.jpg"
+       xlink:href="goalieFigure2.jpg"
+       width="295.64307"
        height="295.64307"
-       width="295.64307" />
+       id="image7276"
+       x="3800.2417"
+       y="-1096.3888" />
     <image
-       y="-730.43237"
-       x="3799.658"
-       id="image7338"
-       xlink:href="file:///home/greghale/Documents/CBMMPoster/robotTheoryOfMind.jpg"
+       sodipodi:absref="/home/greghale/Programming/MIBRPoster/robotTheoryOfMind.jpg"
+       xlink:href="robotTheoryOfMind.jpg"
+       width="274.53607"
        height="274.53607"
-       width="274.53607" />
+       id="image7338"
+       x="3799.658"
+       y="-730.43237" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot7365"
@@ -5805,12 +5810,13 @@
            y="1085.4764" /></flowRegion><flowPara
          id="flowPara7371"
          style="font-size:32px;letter-spacing:0px;word-spacing:0px">How do infants and toddlers learn to recognize objects, actions, intention, logic, and social structure?</flowPara></flowRoot>    <image
-       y="-1091.028"
-       x="2509.5662"
-       id="image7432"
-       xlink:href="file:///home/greghale/Documents/CBMMPoster/doe_sample.jpg"
+       sodipodi:absref="/home/greghale/Programming/MIBRPoster/doe_sample.jpg"
+       xlink:href="doe_sample.jpg"
+       width="180"
        height="180"
-       width="180" />
+       id="image7432"
+       x="2509.5662"
+       y="-1091.028" />
     <flowRoot
        transform="translate(13.69885,-1973.1532)"
        xml:space="preserve"
@@ -5824,12 +5830,13 @@
            y="1085.4764" /></flowRegion><flowPara
          id="flowPara7371-2"
          style="font-size:32px;letter-spacing:0px;word-spacing:0px">How does human developmental learning (involving just a few trials) differ from curent machine learning alrogithms (which requires many training samples)?</flowPara></flowRoot>    <image
-       y="-506.10846"
-       x="2431.179"
-       id="image7666"
-       xlink:href="file:///home/greghale/Documents/CBMMPoster/realBrainFaces.jpg"
+       sodipodi:absref="/home/greghale/Programming/MIBRPoster/realBrainFaces.jpg"
+       xlink:href="realBrainFaces.jpg"
+       width="354.02942"
        height="230.18462"
-       width="354.02942" />
+       id="image7666"
+       x="2431.179"
+       y="-506.10846" />
     <flowRoot
        transform="translate(13.9176,-1569.8215)"
        xml:space="preserve"
@@ -5892,27 +5899,30 @@
        id="g6888"
        transform="matrix(0.79034495,0,0,0.79034495,1218.8929,-52.16714)">
       <image
-         width="498"
-         height="80"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/spectrogram.png"
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/spectrogram.png"
+         xlink:href="spectrogram.png"
+         y="-23.009811"
+         x="3193.3081"
          id="image6729"
-         x="3193.3081"
-         y="-23.009811" />
+         height="80"
+         width="498" />
       <image
-         width="498"
-         height="79"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/sound-waveform.png"
-         id="image6791"
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/sound-waveform.png"
+         xlink:href="sound-waveform.png"
+         y="-102.15537"
          x="3193.3081"
-         y="-102.15537" />
+         id="image6791"
+         height="79"
+         width="498" />
     </g>
     <image
-       y="84.326904"
-       x="3678.1721"
-       id="image6885"
-       xlink:href="file:///home/greghale/Documents/CBMMPoster/word-convnet.png"
+       sodipodi:absref="/home/greghale/Programming/MIBRPoster/word-convnet.png"
+       xlink:href="word-convnet.png"
+       width="461.39099"
        height="379.53622"
-       width="461.39099" />
+       id="image6885"
+       x="3678.1721"
+       y="84.326904" />
     <flowRoot
        transform="translate(1412.2145,-2159.2152)"
        xml:space="preserve"
@@ -6139,7 +6149,7 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#6458c2;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#458bc7;fill-opacity:1;stroke:none;font-family:Sans;"
        x="3595.1802"
        y="-1520.5125"
        id="text5635-3-2"
@@ -6147,235 +6157,267 @@
          sodipodi:role="line"
          x="3595.1802"
          y="-1520.5125"
-         style="font-size:72px;font-style:oblique;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#6458c2;fill-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Oblique"
+         style="font-size:72px;font-style:oblique;font-variant:normal;font-weight:200;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#458bc7;fill-opacity:1;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Oblique;"
          id="tspan5657-9-5">cbmm.mit.edu</tspan></text>
     <g
        id="g11011"
        transform="translate(-33.503815,-80)">
       <image
-         width="116.55658"
-         height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/allen-inst.jpg"
-         id="image9006"
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/allen-inst.jpg"
+         xlink:href="partners/allen-inst.jpg"
+         y="819.88666"
          x="219.16516"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image9006"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/ASTAR-official-logo_-195.png"
-         id="image9068"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/ASTAR-official-logo_-195.png"
+         xlink:href="partners/ASTAR-official-logo_-195.png"
+         y="819.88666"
          x="342.78198"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image9068"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/boston_dynamics_logo_0.jpg"
-         id="image9130"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/boston_dynamics_logo_0.jpg"
+         xlink:href="partners/boston_dynamics_logo_0.jpg"
+         y="819.88666"
          x="466.39874"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image9130"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/childrens-hospital.jpg"
-         id="image9192"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/childrens-hospital.jpg"
+         xlink:href="partners/childrens-hospital.jpg"
+         y="819.88666"
          x="590.0155"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image9192"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/city_university_hong_kong.jpg"
-         id="image9254"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/city_university_hong_kong.jpg"
+         xlink:href="partners/city_university_hong_kong.jpg"
+         y="819.88666"
          x="713.63232"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image9254"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/cuny_logotype_CMYK_blue_195.png"
-         id="image9316"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/cuny_logotype_CMYK_blue_195.png"
+         xlink:href="partners/cuny_logotype_CMYK_blue_195.png"
+         y="819.88666"
          x="837.24915"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image9316"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/GE-edit1.png"
-         id="image9378"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/GE-edit1.png"
+         xlink:href="partners/GE-edit1.png"
+         y="819.88666"
          x="960.86591"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image9378"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/hewbrew_university.jpg"
-         id="image9440"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/hewbrew_university.jpg"
+         xlink:href="partners/hewbrew_university.jpg"
+         y="819.88666"
          x="1084.4827"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image9440"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/italian_institute_of_technology.jpg"
-         id="image9502"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/italian_institute_of_technology.jpg"
+         xlink:href="partners/italian_institute_of_technology.jpg"
+         y="819.88666"
          x="1208.0995"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image9502"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/max_planck.jpg"
-         id="image9564"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/max_planck.jpg"
+         xlink:href="partners/max_planck.jpg"
+         y="819.88666"
          x="1331.7163"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image9564"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/mobile_eye.jpg"
-         id="image9626"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/mobile_eye.jpg"
+         xlink:href="partners/mobile_eye.jpg"
+         y="819.88666"
          x="1455.3331"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image9626"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/national_center_for_biological_sciences.jpg"
-         id="image9688"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/national_center_for_biological_sciences.jpg"
+         xlink:href="partners/national_center_for_biological_sciences.jpg"
+         y="819.88666"
          x="1578.95"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image9688"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/orcam.jpg"
-         id="image9750"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/orcam.jpg"
+         xlink:href="partners/orcam.jpg"
+         y="819.88666"
          x="1702.5667"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image9750"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/parnter-deepmind.jpg"
-         id="image9812"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/parnter-deepmind.jpg"
+         xlink:href="partners/parnter-deepmind.jpg"
+         y="819.88666"
          x="1826.1836"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image9812"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-cornell.jpg"
-         id="image9874"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/partner-cornell.jpg"
+         xlink:href="partners/partner-cornell.jpg"
+         y="819.88666"
          x="1949.8002"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image9874"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-google.jpg"
-         id="image9936"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/partner-google.jpg"
+         xlink:href="partners/partner-google.jpg"
+         y="819.88666"
          x="2073.4172"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image9936"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-harvard.jpg"
-         id="image9998"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/partner-harvard.jpg"
+         xlink:href="partners/partner-harvard.jpg"
+         y="819.88666"
          x="2197.0337"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image9998"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-howard.jpg"
-         id="image10060"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/partner-howard.jpg"
+         xlink:href="partners/partner-howard.jpg"
+         y="819.88666"
          x="2320.6509"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image10060"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-ibm.jpg"
-         id="image10138"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/partner-ibm.jpg"
+         xlink:href="partners/partner-ibm.jpg"
+         y="819.88666"
          x="2444.2673"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image10138"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-mit.jpg"
-         id="image10200"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/partner-mit.jpg"
+         xlink:href="partners/partner-mit.jpg"
+         y="819.88666"
          x="2567.8845"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image10200"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-ms.jpg"
-         id="image10262"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/partner-ms.jpg"
+         xlink:href="partners/partner-ms.jpg"
+         y="819.88666"
          x="2691.501"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image10262"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-rockefeller.jpg"
-         id="image10324"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/partner-rockefeller.jpg"
+         xlink:href="partners/partner-rockefeller.jpg"
+         y="819.88666"
          x="2815.1182"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image10324"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-stanford.jpg"
-         id="image10386"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/partner-stanford.jpg"
+         xlink:href="partners/partner-stanford.jpg"
+         y="819.88666"
          x="2938.7346"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image10386"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-ucc.jpg"
-         id="image10480"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/partner-ucc.jpg"
+         xlink:href="partners/partner-ucc.jpg"
+         y="819.88666"
          x="3062.3516"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image10480"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-ucla.jpg"
-         id="image10542"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/partner-ucla.jpg"
+         xlink:href="partners/partner-ucla.jpg"
+         y="819.88666"
          x="3185.968"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image10542"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/partner-udpp.jpg"
-         id="image10604"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/partner-udpp.jpg"
+         xlink:href="partners/partner-udpp.jpg"
+         y="819.88666"
          x="3309.5852"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image10604"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/rethink_robotics.jpg"
-         id="image10666"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/rethink_robotics.jpg"
+         xlink:href="partners/rethink_robotics.jpg"
+         y="819.88666"
          x="3433.2019"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image10666"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/shlumberger_-new-edit195.png"
-         id="image10728"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/shlumberger_-new-edit195.png"
+         xlink:href="partners/shlumberger_-new-edit195.png"
+         y="819.88666"
          x="3556.8188"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image10728"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/siemensedit2-195.png"
-         id="image10790"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/siemensedit2-195.png"
+         xlink:href="partners/siemensedit2-195.png"
+         y="819.88666"
          x="3680.4353"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image10790"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/university_of_genova.jpg"
-         id="image10852"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/university_of_genova.jpg"
+         xlink:href="partners/university_of_genova.jpg"
+         y="819.88666"
          x="3804.0522"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image10852"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/weizmann_institute_of_science.jpg"
-         id="image10946"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/weizmann_institute_of_science.jpg"
+         xlink:href="partners/weizmann_institute_of_science.jpg"
+         y="819.88666"
          x="3927.6692"
-         y="819.88666" />
-      <image
-         width="116.55658"
+         id="image10946"
          height="116.55658"
-         xlink:href="file:///home/greghale/Documents/CBMMPoster/partners/wellesley_seal_new.gif.png"
-         id="image11008"
+         width="116.55658" />
+      <image
+         sodipodi:absref="/home/greghale/Programming/MIBRPoster/partners/wellesley_seal_new.gif.png"
+         xlink:href="partners/wellesley_seal_new.gif.png"
+         y="819.88666"
          x="4051.2859"
-         y="819.88666" />
+         id="image11008"
+         height="116.55658"
+         width="116.55658" />
     </g>
   </g>
 </svg>
